@@ -1,2 +1,2 @@
 # Python
-#python 3.9
+#python 3.9.7
